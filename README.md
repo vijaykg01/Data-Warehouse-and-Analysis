@@ -180,7 +180,6 @@ Detailed project documentation covering:
 - Exploratory and advanced SQL analytics.
 - Power BI dashboard design and analysis.
 
-[View Complete Project Documentation](docs/SQL_Data_Warehouse_and_Sales_Analytics_Documentation.pdf)
 
 ## 🚀 How to Run
 
@@ -230,4 +229,3 @@ Interested in Data Analytics, Business Intelligence, data visualization and tran
 
 ⭐ If you find this project useful, feel free to explore the repository.
 
-<img width="1548" height="870" alt="image" src="https://github.com/user-attachments/assets/bea1d2a6-e093-4542-961e-0abd32702425" />
