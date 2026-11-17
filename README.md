@@ -81,7 +81,7 @@ Developed an interactive Power BI dashboard to analyse sales performance, revenu
 
 ### Dashboard Preview
 
-![Sales Performance & Business Analytics Dashboard](images/Sales_Performance_Dashboard.png)
+<img width="1548" height="870" alt="image" src="https://github.com/user-attachments/assets/f349fd0e-192b-4a91-b595-1acd6759e786" /> (images/Sales_Performance_Dashboard.png)
 
 ### Key Performance Indicators (KPIs)
 
